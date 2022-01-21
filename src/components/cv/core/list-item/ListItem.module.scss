@@ -1,0 +1,12 @@
+.listItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+
+  & .bullet {
+    background: rgb(83,83,115);
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,41 @@
+.profile {
+  & .profileDecorator {
+    display: flex;
+    justify-content: center;
+
+    & .circle {
+      border-radius: 50%;
+      width: 800px;
+      height: 800px;
+      background: rgb(83,83,115);
+      position: absolute;
+      top: -600px;
+      z-index: 100;
+      border: 10px solid rgb(44,52,100);
+    }
+  }
+
+  & .profilePicture {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+    & img {
+      border-radius: 50%;
+      border: 10px solid white;
+      background: rgb(220,220,208);
+      z-index: 200;
+    }
+  }
+
+  & .fullName {
+    position: absolute;
+    z-index: 100;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+  }
+}
+
+
+

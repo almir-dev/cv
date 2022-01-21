@@ -1,0 +1,10 @@
+.skillItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  & .label {
+    min-width: 80px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+}

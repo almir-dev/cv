@@ -1,0 +1,10 @@
+.circularItem {
+  background: rgba(83,83,115, 0.5);
+  width: 10px;
+  height: 10px;
+  border-radius: 40%;
+
+  &.boldItem {
+    background: rgb(83,83,115);
+  }
+}

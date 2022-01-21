@@ -1,0 +1,26 @@
+ul {
+  margin: 0;
+  padding-left: 15px;
+  list-style-type:square;
+  color: rgb(83,83,115);
+  font-size: 20px;
+
+  & li {
+    color: black;
+    margin-bottom: 5px;
+    font-size: 10px;
+  }
+}
+
+p {
+  border-bottom: 1px solid gainsboro;
+  padding-bottom: 15px;
+}
+
+.advancedInfo {
+  width: 70%;
+  z-index: 200;
+  background: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}

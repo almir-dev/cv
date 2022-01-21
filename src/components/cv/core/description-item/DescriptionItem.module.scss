@@ -1,0 +1,22 @@
+.descriptionItem {
+  & .headline {
+    display: flex;
+    margin-bottom: 10px;
+
+    & .title {
+      width: 100%;
+      flex-direction: row;
+
+      & span {
+        font-weight: bold;
+      }
+    }
+
+    & .timespan {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+    }
+  }
+}

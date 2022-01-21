@@ -1,0 +1,15 @@
+.labeledField {
+  display: flex;
+  margin-bottom: 10px;
+
+  & .content {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+
+    & .label {
+      color: rgb(83,83,115);
+      font-weight: bold;
+    }
+  }
+}
