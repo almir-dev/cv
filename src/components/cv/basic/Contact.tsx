@@ -25,7 +25,7 @@ export function EmailField() {
 export function LinkedInField() {
   return (
     <LabeledField icon={<LinkedIn />} label={"LinkedIn"}>
-      www.linkedin.com/aomerovi
+      www.linkedin.com/in/almirdev
     </LabeledField>
   );
 }
