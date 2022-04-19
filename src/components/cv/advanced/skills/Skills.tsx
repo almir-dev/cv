@@ -15,6 +15,7 @@ export function Skills() {
       <SkillItem skill={"Spring boot"} score={3} />
       <SkillItem skill={"SQL"} score={4} />
       <SkillItem skill={"PostgreSQL"} score={4} />
+      <SkillItem skill={"GitLab"} score={3} />
     </DescriptionSection>
   );
 }
