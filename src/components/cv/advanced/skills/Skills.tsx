@@ -16,6 +16,10 @@ export function Skills() {
       <SkillItem skill={"SQL"} score={4} />
       <SkillItem skill={"PostgreSQL"} score={4} />
       <SkillItem skill={"GitLab"} score={3} />
+      <SkillItem skill={"Jest"} score={5} />
+      <SkillItem skill={"Enzyme"} score={5} />
+      <SkillItem skill={"Mockito"} score={4} />
+      <SkillItem skill={"Cypress"} score={4} />
     </DescriptionSection>
   );
 }

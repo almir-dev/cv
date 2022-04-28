@@ -33,6 +33,8 @@ export function DccsExperience() {
           <li>Gained experience in agile development while doing pair and mock programming</li>
           <li>Worked on Micro‑frontend applications</li>
           <li>Gained experience in SQL databases (Hibernate and Postgres)  </li>
+          <li>TDD on both backend and frontend</li>
+          <li>Extensive unit and e2e testing (Mockito, Jest, React tests, Cypress)</li>
         </ul>
       </p>
     </DescriptionItem>
