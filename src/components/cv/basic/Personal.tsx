@@ -15,7 +15,7 @@ export function Personal() {
 export function AgeField() {
   return (
     <LabeledField icon={<Cake />} label={"Age"}>
-      25 years
+      26 years
     </LabeledField>
   );
 }
