@@ -29,12 +29,13 @@ export function DccsExperience() {
       <p>
         <ul className={styles.regularUl}>
           <li>Developed web applications for famous automobile groups</li>
-          <li>Fullstack experience with java/sprint boot and react</li>
+          <li>Fullstack experience with java/spring boot and react</li>
           <li>Gained experience in agile development while doing pair and mock programming</li>
-          <li>Worked on Micro‑frontend applications</li>
+          <li>Created a custom micro-frontend solution</li>
           <li>Gained experience in SQL databases (Hibernate and Postgres)  </li>
           <li>TDD on both backend and frontend</li>
           <li>Extensive unit and e2e testing (Mockito, Jest, React tests, Cypress)</li>
+          <li>Creating a configuring Gitlab pipelines</li>
         </ul>
       </p>
     </DescriptionItem>
