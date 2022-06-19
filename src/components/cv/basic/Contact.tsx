@@ -9,7 +9,7 @@ export function Contact() {
       <EmailField />
       <LinkedInField />
       <GithubField />
-      <WebField />
+      {/*<WebField />*/}
     </InfoSection>
   );
 }
