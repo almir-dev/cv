@@ -7,8 +7,8 @@ export function AdvanceInfo() {
   return (
     <div className={styles.advancedInfo}>
       <p>
-        Passionate software engineer with 5+ of experience in developing web applications focused on supporting clients
-        in the Automotive industry. Looking for new challenges and not afraid to go out of the comfort zone.
+        Passionate software engineer with 5+ years of experience in developing web applications focused on supporting
+        clients in the Automotive industry. Looking for new challenges and not afraid to go out of the comfort zone.
       </p>
       <h2>Work experience</h2>
       <DccsExperience />
@@ -29,13 +29,14 @@ export function DccsExperience() {
       <p>
         <ul className={styles.regularUl}>
           <li>Developed web applications for famous automobile groups</li>
+          <li>Maintained existing products, and was part of products from start to end</li>
+          <li>Mentoring new junior team members</li>
           <li>Fullstack experience with java/spring boot and react</li>
-          <li>Gained experience in agile development while doing pair and mock programming</li>
+          <li>Worked in an agile environment while doing pair and mock programming</li>
           <li>Created a custom micro-frontend solution</li>
-          <li>Gained experience in SQL databases (Hibernate and Postgres)  </li>
           <li>TDD on both backend and frontend</li>
           <li>Extensive unit and e2e testing (Mockito, Jest, React tests, Cypress)</li>
-          <li>Creating a configuring Gitlab pipelines</li>
+          <li>Maintaining Gitlab pipelines</li>
         </ul>
       </p>
     </DescriptionItem>
