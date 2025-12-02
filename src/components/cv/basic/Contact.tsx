@@ -1,7 +1,7 @@
 import React from "react";
 import { InfoSection } from "../core/info-section/InfoSection";
 import { LabeledField } from "../core/labeled-field/LabeledField";
-import { Email, LinkedIn, GitHub, Web } from "@material-ui/icons";
+import { Email, LinkedIn, GitHub, Web } from "@mui/icons-material";
 
 export function Contact() {
   return (

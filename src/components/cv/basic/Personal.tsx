@@ -1,7 +1,7 @@
 import React from "react";
 import { LabeledField } from "../core/labeled-field/LabeledField";
 import { InfoSection } from "../core/info-section/InfoSection";
-import { Place, Cake } from "@material-ui/icons";
+import { Place, Cake } from "@mui/icons-material";
 
 export function Personal() {
   return (
